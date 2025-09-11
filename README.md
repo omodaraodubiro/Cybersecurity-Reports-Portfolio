@@ -20,7 +20,7 @@ I bring a solid background in **technical support for Microsoft products**, whic
 - [GRC](GRC/GRC.pdf) 
 - [Human_Factor](Human_Factor/Human_Factor.pdf)  
 - [SOC Analysis](SOC/SOC.pdf)
-- [Threat Intelligence Report](Threat-Intelligence/NexaCore_Threat_Report.pdf)
+- <a href="https://github.com/omodaraodubiro/Threat_Intellegence">Threat Intelligence Report</a>
 
 ###  From ICDF Academy (Cybersecurity & GRC)  
 - Risk Management Frameworks  
