@@ -9,7 +9,7 @@ This repository contains my cybersecurity reports, security audits, vulnerabilit
 
 Hi, I’m **Omodara**. My journey in **Computer Engineering** has led me to develop a strong passion for **Cybersecurity**. I am now eager to transition fully into this field, with the goal of joining a **Security Operations Center (SOC)** as a **Tier 1 Analyst**.  
 
-I bring a solid background in **technical support for Microsoft products**, which has strengthened my troubleshooting, problem-solving, and customer-facing skills — all of which I now apply in the cybersecurity domain.  
+I bring a solid background in **technical support for Microsoft products**, which has strengthened my troubleshooting, problem-solving, and customer-facing skills all of which I now apply in the cybersecurity domain.  
 
 
 ##  Skills 
