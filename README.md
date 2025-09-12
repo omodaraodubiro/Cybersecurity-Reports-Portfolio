@@ -15,12 +15,12 @@ I bring a solid background in **technical support for Microsoft products**, whic
 ##  Skills 
 
 ###  From Cyblack  
-- [Cloud_Security](Cloud_Security/Cloud_Security.pdf) 
+- <a href="https://github.com/omodaraodubiro/Threat_Intellegence">Threat Intelligence Report</a>
+- <a href="https://github.com/omodaraodubiro/Cloud_Security/tree/main">Cloud Security Report</a>
 - [Ethical_Hacking](Ethical_Hacking/Ethical_Hacking.pdf)
 - [GRC](GRC/GRC.pdf) 
 - [Human_Factor](Human_Factor/Human_Factor.pdf)  
 - [SOC Analysis](SOC/SOC.pdf)
-- <a href="https://github.com/omodaraodubiro/Threat_Intellegence">Threat Intelligence Report</a>
 
 ###  From ICDF Academy (Cybersecurity & GRC)  
 - Risk Management Frameworks  
