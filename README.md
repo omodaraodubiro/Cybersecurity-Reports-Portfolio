@@ -39,7 +39,6 @@ I am a cybersecurity and Governance, Risk, and Compliance (GRC) analyst with han
 **SIEM & Security Monitoring**
 + Wazuh
 + Splunk
-+ Google Chronicle
 + Microsoft Sentinel (Azure SIEM)
   
 **Cloud Security & Monitoring**
